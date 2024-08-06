@@ -15,7 +15,7 @@ Este projeto realiza o reconhecimento de texto em imagens utilizando as bibliote
 
 Como o curso não foi profundo o suficiente em alguns conceitos, usei o ChatGPT para me ajudar na interpretação e montagem do projeto.
 
-![Tela do Projeto](link-para-tela01.png)
+![Tela do Projeto](https://github.com/davidsss6/reconhecimento_de_texto/blob/main/tela_01.png)
 
 Montei um projeto de reconhecimento de texto que utiliza tecnologias comuns e eficazes para essa tarefa. O código foi escrito em Python, uma das linguagens mais populares para tarefas de IA, juntamente com bibliotecas como Tesseract (para reconhecimento de texto) e OpenCV (para manipulação de imagens).
 
@@ -23,15 +23,15 @@ Usei o Visual Studio Code para desenvolver o projeto e o GitHub para armazenar e
 
 Após confeccionar o código e instalar as bibliotecas necessárias, rodei localmente em minha máquina para testar o funcionamento.
 
-![Tela do Projeto](link-para-tela02.png)
+![Tela do Projeto](https://github.com/davidsss6/reconhecimento_de_texto/blob/main/tela_02.png)
 
 O resultado foi o reconhecimento dos textos que estavam nessa imagem:
 
-![Tela do Projeto](link-para-tela03.png)
+![Tela do Projeto](https://github.com/davidsss6/reconhecimento_de_texto/blob/main/tela_03.png)
 
 Para este arquivo de texto:
 
-![Tela do Projeto](link-para-tela04.png)
+![Tela do Projeto](https://github.com/davidsss6/reconhecimento_de_texto/blob/main/tela_04.png)
 
 Após certificar o funcionamento correto do código, fiz o upload para meu repositório no GitHub.
 
