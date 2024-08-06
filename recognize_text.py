@@ -3,14 +3,15 @@ import pytesseract
 from PIL import Image
 import os
 
-# Defina o caminho do executável do Tesseract
+# Define o caminho do executável do Tesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Diretório das imagens de entrada
 input_dir = 'inputs'
+# Diretório do texto de sa'ida
 output_dir = 'output'
 
-# Crie o diretório de saída se não existir
+# Cria o diretório de saída se não existir
 os.makedirs(output_dir, exist_ok=True)
 
 # Iterar sobre as imagens no diretório de entrada
@@ -32,4 +33,6 @@ for image_name in os.listdir(input_dir):
         file.write(text)
 
     print(f"Texto reconhecido e salvo em {output_path}")
+
+
 
